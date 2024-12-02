@@ -21,7 +21,7 @@ Public Repositories: 3 | Followers: 0 | Following: 0
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz2811&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-username)
 
 ## Recent Activity
 
