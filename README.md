@@ -21,7 +21,7 @@ Public Repositories: 3 | Followers: 0 | Following: 0
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz2811&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdo-bm-261845337)
+[![LinkedIn](linkedin.com/in/abdelaziz-bahoumi-261845337)
 ## Recent Activity
 
 - **Updated README.md** in [Cpp-applications](https://github.com/Abdelaziz2811/Cpp-applications) on Nov 12, 2024.
