@@ -8,7 +8,7 @@ I'm a programming enthusiast currently studying fundamentals of C++. Based in Mo
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,git,github,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
