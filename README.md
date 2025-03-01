@@ -11,8 +11,8 @@ I'm a programming enthusiast currently studying fundamentals of C++. Based in Mo
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux&perline=8)](https://skillicons.dev)
 
 ## Top Projects
-
-[![MyProjects](https://github.com/Abdelaziz2811/Win-Forms-Applications)
+- [Project 1](https://github.com/Abdelaziz2811/Bank-Management-System-Project)
+- [Project 2](https://github.com/Abdelaziz2811/Win-Forms-Applications/tree/main/UniversitySystem)
 
 ## GitHub Stats
 Public Repositories: 3 | Followers: 0 | Following: 0 
