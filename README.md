@@ -1,43 +1,49 @@
-## Hi there! 👋
+# Hi there! 👋 I'm Abdelaziz  
 
-Hi there! 👋 I'm Abdelaziz, a passionate programming enthusiast currently diving deep into the world of C++. As a dedicated learner, I'm focusing on mastering the fundamentals of C++ to build a strong foundation for my future in software development.
+I have successfully completed the foundational phase of my C++ learning journey and am now exploring advanced concepts to deepen my expertise. Additionally, I am actively studying C# programming and database management with SQL Server, including **ADO.NET**, to broaden my technical skill set.
 
-## About Me
+---
 
-I'm a programming enthusiast currently studying fundamentals of C++. Based in Morocco, I enjoy tackling challenges and enhancing my skills through practical projects. My goal is to create impactful applications that leverage technology to solve real-world problems.
+## 🔥 Skills & Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,git,github,linux&perline=6" alt="Skills">
+</p>
 
-## Skills & Technologies
+---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,git,github,linux&perline=8)](https://skillicons.dev)
+## 📌 Top Projects  
+🔹 [**Bank Management System**](https://github.com/Abdelaziz2811/Bank-Management-System-Project)  
+🔹 [**University System (WinForms)**](https://github.com/Abdelaziz2811/Win-Forms-Applications/tree/main/UniversitySystem)  
 
-## Top Projects
-- [Project 1](https://github.com/Abdelaziz2811/Bank-Management-System-Project)
-- [Project 2](https://github.com/Abdelaziz2811/Win-Forms-Applications/tree/main/UniversitySystem)
+---
 
-## GitHub Stats
-Public Repositories: 3 | Followers: 0 | Following: 0 
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdelaziz2811&theme=tokyonight&fire=DD2727&ring=FFD700" alt="GitHub Streak Stats">  
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz2811&layout=compact&theme=dracula&langs_count=6" alt="Top Languages">
+</p>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdelaziz2811&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelaziz2811&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Connect with Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://linkedin.com/in/abdelaziz-bahoumi-261845337
+## 📬 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelaziz-bahoumi-261845337)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelaziz2811)  
 
-## Recent Activity
+---
 
-- **Updated README.md** in [Cpp-applications](https://github.com/Abdelaziz2811/Cpp-applications) on Nov 12, 2024.
-- **Updated README.md** in [MyProjects](https://github.com/Abdelaziz2811/MyProjects) on Nov 12, 2024.
-- **Created C++ applications** repository on Nov 12, 2024.
-- **Push to MyProjects** branch on Nov 12, 2024.
-- **Created README.md** in [Cpp-applications](https://github.com/Abdelaziz2811/Cpp-applications) on Nov 12, 2024.
+## 🔄 Recent Activity  
+✅ **Updated README.md** in [Cpp-applications](https://github.com/Abdelaziz2811/Cpp-applications) on **Nov 12, 2024**  
+✅ **Created C++ applications** repository on **Nov 12, 2024**  
+✅ **Pushed to MyProjects branch** on **Nov 12, 2024**  
 
-## ASCII Art
+---
 
-```
-     _    _         _      _           _     ____  ___  _ _ 
-    / \  | |__   __| | ___| | __ _ ___(_)___|___ \( _ )/ / |
-   / _ \ | '_ \ / _` |/ _ \ |/ _` |_  / |_  / __) / _ \| | |
-  / ___ \| |_) | (_| |  __/ | (_| |/ /| |/ / / __/ (_) | | |
- /_/   \_\_.__/ \__,_|\___|_|\__,_/___|_/___|_____\___/|_|_|
-                                                            
-```
+## 🎨 ASCII Art  
+
+```ansi
+[1;32m     _    _         _      _           _     [1;31m____  ___  _ _  [0m
+[1;32m    / \  | |__   __| | ___| | __ _ ___(_)___[1;31m|___ \( _ )/ / | [0m
+[1;32m   / _ \ | '_ \ / _` |/ _ \ |/ _` |_  / |_ [1;31m/ __) / _ \| | | [0m
+[1;32m  / ___ \| |_) | (_| |  __/ | (_| |/ /| |/[1;31m / / __/ (_) | | | [0m
+[1;32m /_/   \_\_.__/ \__,_|\___|_|\__,_/___|_/[1;31m___|_____\___/|_|_| [0m
