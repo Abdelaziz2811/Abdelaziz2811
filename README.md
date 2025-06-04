@@ -6,7 +6,7 @@ I have successfully completed the foundational phase of my C++ learning journey 
 
 ## 🔥 Skills & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,git,github,linux&perline=6" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,git,github,bash,vim,linux&perline=6" alt="Skills">
 </p>
 
 ---
