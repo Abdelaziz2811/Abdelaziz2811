@@ -1,6 +1,10 @@
 # Hi there! 👋 I'm Abdelaziz  
 
-I have successfully completed the foundational phase of my C++ learning journey and am now exploring advanced concepts to deepen my expertise. Additionally, I am actively studying C# programming and database management with SQL Server, including **ADO.NET**, to broaden my technical skill set.
+An aspiring Full Stack Developer who thrives on learning, problem-solving, and building solutions from the ground up.
+
+My journey began with mastering the fundamentals of programming through C++, data structures, and algorithms at Programming Advices, where I built a solid foundation to tackle technical challenges with confidence. Along the way, I developed several console-based applications and gradually expanded into C# and SQL Server, focusing on desktop development with the .NET Framework.
+
+In July 2025, I successfully completed the Piscine program at 1337 School, a highly intensive training that sharpened my resilience, collaboration, and low-level programming skills. This experience strengthened my passion for software engineering and prepared me to dive deeper into C, shell scripting, and systems programming.
 
 ---
 
