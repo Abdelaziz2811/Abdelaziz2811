@@ -64,8 +64,8 @@
 </p>
 
 ### Skills Icons
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,git,github,bash,vim,linux&perline=6" alt="Skills">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,visualstudio,vscode,git,github,bash,vim,linux&perline=11" alt="Skills">
 </p>
 
 ---
