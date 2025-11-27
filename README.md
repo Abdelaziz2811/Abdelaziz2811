@@ -11,7 +11,6 @@
 > An aspiring Full Stack Developer who thrives on learning, problem-solving, and building solutions from the ground up.
 
 - 🎓 Mastered fundamentals through **C++, Data Structures & Algorithms** at Programming Advices
-- 🏫 Successfully completed **Piscine at 1337 School** (July 2025)
 - 💼 Specialized in **Desktop Development** with C#, .NET Framework, and SQL Server
 - 🌱 Currently exploring **Systems Programming** and **Full Stack Development**
 - 🎯 Passionate about writing clean, efficient, and scalable code
@@ -24,7 +23,6 @@
 - 🔭 Working on: **Building full-stack applications and enhancing my portfolio**
 - 🌱 Learning: **C programming, Shell scripting, more about backend dev, and Modern web technologies**
 - 💬 Ask me about: **C++, C#, .NET, Data Structures, Algorithms, and Desktop Development**
-- 📫 How to reach me: links below (Connect with Me Section)
 - ⚡ Fun fact: **I completed the intense 1337 Piscine and loved every challenging moment!**
 
 ---
@@ -37,7 +35,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
 </p>
 
 ### Frameworks & Technologies
